@@ -91,10 +91,9 @@ Execute o aplicativo em um emulador ou dispositivo usando npm run android ou npm
 
 The following tools were used in this project:
 
-- [React-Native](https://reactnative.dev/docs/getting-started)
+- [React Native](https://reactnative.dev/docs/getting-started)
 - [React.js](https://legacy.reactjs.org/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Axios](https://axios-http.com/docs/intro)
+- [StyleSheet](https://reactnative.dev/docs/stylesheet)
 
 ## :white_check_mark: Requirements
 
