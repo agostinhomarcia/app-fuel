@@ -9,17 +9,17 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/app-movies?color=FF0000">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/app-fuel?color=FF0000">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/app-movies?color=FF0000">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/app-fuel?color=FF0000">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/app-movies?color=FF0000">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/app-fuel?color=FF0000">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/app-movies?color=FF0000" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/app-fuel?color=FF0000" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/app-movies?color=FF0000" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/app-fuel?color=FF0000" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/app-movies?color=FF0000" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/app-fuel?color=FF0000" /> 
 </p>
 
 <p align="center">
