@@ -1,12 +1,25 @@
 import { StyleSheet } from 'react-native';
+import theme from '../theme';
 
 const styles = StyleSheet.create({
     container: {
-      marginTop: 50,
-      padding: 20,
-      alignItems: 'center',
-      backgroundColor: '#fff',
       flex: 1,
+      backgroundColor: theme.colors.onPrimary
+    },
+    appbar: {
+      backgroundColor: theme.colors.primary
+    },
+    appbarText: {
+      marginLeft: 20,
+      color: '#fff',
+    },
+    card: {
+      margin: 20
+    },
+    fab: {
+      position: 'absolute',
+      right: 16,
+      bottom: 16,
     },
     imagemPaginaInicial: {
       width: 200,
@@ -19,12 +32,8 @@ const styles = StyleSheet.create({
       color: '#333',
     },
     input: {
-      height: 40,
-      borderColor: '#333',
-      borderWidth: 1,
-      marginBottom: 10,
-      padding: 10,
       width: '100%',
+      marginBottom: 10,
     },
     resultado: {
       marginTop: 20,
